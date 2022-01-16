@@ -17,5 +17,14 @@
 This document is a brief primer on using Go templates.</description>
     </item>
     
+    <item>
+      <title>你好世界</title>
+      <link>https://golearn.techina.science/posts/1/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://golearn.techina.science/posts/1/</guid>
+      <description>测试一下中文情况</description>
+    </item>
+    
   </channel>
 </rss>
