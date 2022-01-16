@@ -24,7 +24,9 @@ jobs:
         hugo-version: 'latest'
 
     - name: Build
-      run: hugo --minify	# 使用hugo构建静态网页
+      run: |
+        cd doc
+        hugo --minify
       
     - name: Commit files
       run: |
